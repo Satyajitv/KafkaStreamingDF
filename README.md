@@ -5,6 +5,8 @@ The same should also work with other JSON formats apart from Debezium, with minu
 
 Approach:
 +++++++++
+
+
 *InferSchema from kafka batch process version.
 *Use the schema to create JSON row values to Streaming DF with columns and their values.
 
