@@ -9,6 +9,8 @@ Approach:
 
 
 *InferSchema from kafka batch process version.
+
+
 *Use the schema to create JSON row values to Streaming DF with columns and their values.
 
 Steps to create DF from structured streaming JSON values:
