@@ -4,6 +4,7 @@ Structured Streaming(Kafka) JSON to DF (Specifically for Debezium payload.after 
 The same should also work with other JSON formats apart from Debezium, with minute changes.
 
 Approach:
+
 +++++++++
 
 
